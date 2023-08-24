@@ -1,0 +1,32 @@
+PODS:
+  - CalendarKit (1.1.9)
+  - FSCalendar (2.8.4)
+  - GoogleMaps (7.4.0):
+    - GoogleMaps/Maps (= 7.4.0)
+  - GoogleMaps/Base (7.4.0)
+  - GoogleMaps/Maps (7.4.0):
+    - GoogleMaps/Base
+  - QVRWeekView (0.14.1)
+
+DEPENDENCIES:
+  - CalendarKit
+  - FSCalendar
+  - GoogleMaps
+  - QVRWeekView
+
+SPEC REPOS:
+  trunk:
+    - CalendarKit
+    - FSCalendar
+    - GoogleMaps
+    - QVRWeekView
+
+SPEC CHECKSUMS:
+  CalendarKit: 0c19eabfc09a6d2b32d2e7fe392e2fe5996622af
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  GoogleMaps: 032f676450ba0779bd8ce16840690915f84e57ac
+  QVRWeekView: 8b68e870e17bd970f44a5a2017e0bd031c825af3
+
+PODFILE CHECKSUM: e2b931d53c2930b5e67c442aedab4134af102604
+
+COCOAPODS: 1.12.1

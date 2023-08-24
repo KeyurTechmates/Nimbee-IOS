@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Nimbee-NimbeeUITests/Pods-Nimbee-NimbeeUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CalendarKit/CalendarKit.framework
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/QVRWeekView/QVRWeekView.framework

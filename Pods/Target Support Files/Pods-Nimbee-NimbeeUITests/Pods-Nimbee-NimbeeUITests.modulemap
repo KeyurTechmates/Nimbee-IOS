@@ -1,0 +1,6 @@
+framework module Pods_Nimbee_NimbeeUITests {
+  umbrella header "Pods-Nimbee-NimbeeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
